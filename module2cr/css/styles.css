@@ -16,15 +16,6 @@ p {
   margin-left: auto;
 }
 
-.title-container {
-  width: 90%;
-  height: 100px;
-  margin-right: auto;
-  margin-left: auto;
-  text-align: center;
-  font-size: 175%;
-}
-
 .section-title {
   width: 40%;
   float: right;
