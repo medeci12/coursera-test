@@ -23,7 +23,6 @@ p {
   border-bottom: 1px solid black;
   text-align: center;
   font-size: 125%;
-  float: right; 
 }
 
 .menu {
@@ -32,10 +31,8 @@ p {
   border: 2px solid black;
 }
 
-
-
 .row {
-  width: 90%;
+  width: 100%;
   border: 5px;
   margin-right: auto;
   margin-left: auto;
@@ -53,10 +50,6 @@ p {
 
 #sushi {
   background-color: yellow;
-}
-
-.row {
-  width: 100%;
 }
 
 
